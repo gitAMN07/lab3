@@ -1,4 +1,0 @@
-def temp(x):
-    print((x - 32)*(5 / 9))
-x = int(input("Farenheit: "))
-temp(x)
